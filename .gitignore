@@ -1,4 +1,5 @@
 
+/target
 .idea
 checkstyle-idea.xml
 workspace.xml
