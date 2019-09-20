@@ -1,7 +1,7 @@
 package injector;
 
-import injector.Annotations.AutoWired;
-import injector.Annotations.Component;
+import injector.annotations.AutoWired;
+import injector.annotations.Component;
 
 @Component
 public class Greeter {
